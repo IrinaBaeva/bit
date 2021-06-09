@@ -1,0 +1,66 @@
+/* Главная */
+.firstParagraph {
+    padding-top: 5%;
+
+}
+.bit {
+    padding-top:1rem;
+    color: ghostwhite;
+    padding-bottom: 2rem;
+}
+
+.secondParagraphMain {
+   
+    font-family: 'Comfortaa', cursive;
+}
+
+
+/* Услуги */
+#features {
+    background-color: white;
+
+    padding: 7% 15%;
+}
+
+
+
+.first_service_heading {
+    background-color:#ec4646;
+}
+.second_service_heading {
+    background-color:#ffe227;
+}
+.third_service_heading {
+    background-color: #51c2d5;
+}
+.firstParagraph {
+    
+    font-family: 'Noto Sans', sans-serif;
+}
+.firsrSection {
+    background-color: #686d76;
+}
+body {
+    
+    background-color:lightslategrey;
+}
+.promo {
+   border: 1px solid; 
+   text-align: center;
+}
+.pricecover {
+    background-color:lightslategray;
+}
+
+#pricing {
+    background-color:lightgoldenrodyellow;
+}
+.btn 
+{
+    background-color: #ef2888;
+}
+/* Reviews */
+
+#reviews {
+    padding: 7% 15%;
+}
